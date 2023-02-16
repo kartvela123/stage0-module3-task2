@@ -6,7 +6,7 @@ public class advancedNamingConvention {
     private int age;
     private int phoneNumber;
 
-    void  callToFriend() {
+    void callToFriend() {
         //some code
     }
 
